@@ -1,2 +1,1 @@
-# urosj.github.io
-Musings on feedback loops in complex systems.
+# Musings on feedback loops in complex systems.
